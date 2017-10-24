@@ -1,0 +1,16 @@
+[
+  {
+    "type": "HTMLClose",
+    "text": " HTML comment",
+    "start": {
+      "line": 2,
+      "column": 0,
+      "offset": 2
+    },
+    "end": {
+      "line": 2,
+      "column": 16,
+      "offset": 18
+    }
+  }
+]

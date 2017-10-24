@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " ContinueStatement should be removed.",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 40
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " And label is not used, then label also should be removed.",
+    "start": {
+      "line": 2,
+      "column": 0,
+      "offset": 40
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 101
+    }
+  }
+]

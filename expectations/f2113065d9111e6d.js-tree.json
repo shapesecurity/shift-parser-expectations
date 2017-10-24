@@ -1,0 +1,96 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "CallExpression",
+        "callee": {
+          "type": "ArrowExpression",
+          "params": {
+            "type": "FormalParameters",
+            "items": [],
+            "rest": null,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 1
+              },
+              "end": {
+                "line": 1,
+                "column": 3,
+                "offset": 3
+              }
+            }
+          },
+          "body": {
+            "type": "LiteralNullExpression",
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 7,
+                "offset": 7
+              },
+              "end": {
+                "line": 1,
+                "column": 11,
+                "offset": 11
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 1,
+              "column": 11,
+              "offset": 11
+            }
+          }
+        },
+        "arguments": [],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 14,
+            "offset": 14
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 15,
+          "offset": 15
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 15,
+      "offset": 15
+    }
+  }
+}

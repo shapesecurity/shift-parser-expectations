@@ -1,0 +1,53 @@
+{
+  "type": "Module",
+  "directives": [],
+  "items": [
+    {
+      "type": "ExportFrom",
+      "namedExports": [
+        {
+          "type": "ExportFromSpecifier",
+          "name": "default",
+          "exportedName": null,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 9,
+              "offset": 9
+            },
+            "end": {
+              "line": 1,
+              "column": 16,
+              "offset": 16
+            }
+          }
+        }
+      ],
+      "moduleSpecifier": "a",
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 27,
+          "offset": 27
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 27,
+      "offset": 27
+    }
+  }
+}

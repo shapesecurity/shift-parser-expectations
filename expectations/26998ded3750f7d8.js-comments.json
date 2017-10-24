@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " To avoid JSC bug, we don't distinguish FunctionExpression name scope and it's function scope",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 96
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " Don't rename this variable to a name that is the same to function's name",
+    "start": {
+      "line": 3,
+      "column": 16,
+      "offset": 128
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 204
+    }
+  }
+]

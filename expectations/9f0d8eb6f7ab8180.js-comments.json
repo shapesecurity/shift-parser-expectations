@@ -1,0 +1,30 @@
+[
+  {
+    "type": "MultiLine",
+    "text": "\n",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 2,
+      "offset": 5
+    }
+  },
+  {
+    "type": "HTMLClose",
+    "text": "",
+    "start": {
+      "line": 2,
+      "column": 2,
+      "offset": 5
+    },
+    "end": {
+      "line": 2,
+      "column": 5,
+      "offset": 8
+    }
+  }
+]

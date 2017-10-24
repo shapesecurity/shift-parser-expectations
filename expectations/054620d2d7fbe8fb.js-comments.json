@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " because test is not referenced",
+    "start": {
+      "line": 3,
+      "column": 8,
+      "offset": 40
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 74
+    }
+  }
+]

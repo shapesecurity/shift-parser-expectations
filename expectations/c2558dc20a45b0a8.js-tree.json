@@ -1,0 +1,163 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "ObjectExpression",
+        "properties": [
+          {
+            "type": "Method",
+            "isGenerator": false,
+            "name": {
+              "type": "ComputedPropertyName",
+              "expression": {
+                "type": "BinaryExpression",
+                "left": {
+                  "type": "LiteralNumericExpression",
+                  "value": 1,
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 3,
+                      "offset": 3
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 4,
+                      "offset": 4
+                    }
+                  }
+                },
+                "operator": "+",
+                "right": {
+                  "type": "LiteralNumericExpression",
+                  "value": 2,
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 5,
+                      "offset": 5
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 6,
+                      "offset": 6
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 3,
+                    "offset": 3
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 6,
+                    "offset": 6
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 2,
+                  "offset": 2
+                },
+                "end": {
+                  "line": 1,
+                  "column": 7,
+                  "offset": 7
+                }
+              }
+            },
+            "params": {
+              "type": "FormalParameters",
+              "items": [],
+              "rest": null,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 7,
+                  "offset": 7
+                },
+                "end": {
+                  "line": 1,
+                  "column": 9,
+                  "offset": 9
+                }
+              }
+            },
+            "body": {
+              "type": "FunctionBody",
+              "directives": [],
+              "statements": [],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 10,
+                  "offset": 10
+                },
+                "end": {
+                  "line": 1,
+                  "column": 12,
+                  "offset": 12
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 2,
+                "offset": 2
+              },
+              "end": {
+                "line": 1,
+                "column": 12,
+                "offset": 12
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 1,
+            "offset": 1
+          },
+          "end": {
+            "line": 1,
+            "column": 13,
+            "offset": 13
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 14,
+          "offset": 14
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 14,
+      "offset": 14
+    }
+  }
+}

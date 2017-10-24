@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " Hello, world!",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 17
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": "   Another hello",
+    "start": {
+      "line": 3,
+      "column": 0,
+      "offset": 18
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 37
+    }
+  }
+]

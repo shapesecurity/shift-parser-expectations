@@ -1,0 +1,114 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ForInStatement",
+      "left": {
+        "type": "VariableDeclaration",
+        "kind": "let",
+        "declarators": [
+          {
+            "type": "VariableDeclarator",
+            "binding": {
+              "type": "BindingIdentifier",
+              "name": "yield",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 8,
+                  "offset": 8
+                },
+                "end": {
+                  "line": 1,
+                  "column": 13,
+                  "offset": 13
+                }
+              }
+            },
+            "init": null,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 8,
+                "offset": 8
+              },
+              "end": {
+                "line": 1,
+                "column": 13,
+                "offset": 13
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 4,
+            "offset": 4
+          },
+          "end": {
+            "line": 1,
+            "column": 13,
+            "offset": 13
+          }
+        }
+      },
+      "right": {
+        "type": "LiteralNumericExpression",
+        "value": 1,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 17,
+            "offset": 17
+          },
+          "end": {
+            "line": 1,
+            "column": 18,
+            "offset": 18
+          }
+        }
+      },
+      "body": {
+        "type": "EmptyStatement",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 19,
+            "offset": 19
+          },
+          "end": {
+            "line": 1,
+            "column": 20,
+            "offset": 20
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 20,
+          "offset": 20
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 20,
+      "offset": 20
+    }
+  }
+}

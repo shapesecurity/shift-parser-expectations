@@ -1,0 +1,86 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "LabeledStatement",
+      "label": "a",
+      "body": {
+        "type": "ForStatement",
+        "init": null,
+        "test": null,
+        "update": null,
+        "body": {
+          "type": "ForStatement",
+          "init": null,
+          "test": null,
+          "update": null,
+          "body": {
+            "type": "ContinueStatement",
+            "label": "a",
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 20,
+                "offset": 64
+              },
+              "end": {
+                "line": 2,
+                "column": 31,
+                "offset": 75
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 11,
+              "offset": 55
+            },
+            "end": {
+              "line": 2,
+              "column": 31,
+              "offset": 75
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 3,
+            "offset": 47
+          },
+          "end": {
+            "line": 2,
+            "column": 31,
+            "offset": 75
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 44
+        },
+        "end": {
+          "line": 2,
+          "column": 31,
+          "offset": 75
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 76
+    }
+  }
+}

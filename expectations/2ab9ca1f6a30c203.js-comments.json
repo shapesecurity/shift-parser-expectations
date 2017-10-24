@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " 1.",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 6
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " 2.",
+    "start": {
+      "line": 10,
+      "column": 0,
+      "offset": 76
+    },
+    "end": {
+      "line": 11,
+      "column": 0,
+      "offset": 82
+    }
+  }
+]

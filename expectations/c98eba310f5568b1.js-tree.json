@@ -1,0 +1,100 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ForStatement",
+      "init": null,
+      "test": null,
+      "update": null,
+      "body": {
+        "type": "IfStatement",
+        "test": {
+          "type": "CallExpression",
+          "callee": {
+            "type": "IdentifierExpression",
+            "name": "a",
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 8,
+                "offset": 17
+              },
+              "end": {
+                "line": 2,
+                "column": 9,
+                "offset": 18
+              }
+            }
+          },
+          "arguments": [],
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 8,
+              "offset": 17
+            },
+            "end": {
+              "line": 2,
+              "column": 11,
+              "offset": 20
+            }
+          }
+        },
+        "consequent": {
+          "type": "BreakStatement",
+          "label": null,
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 13,
+              "offset": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 19,
+              "offset": 28
+            }
+          }
+        },
+        "alternate": null,
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 4,
+            "offset": 13
+          },
+          "end": {
+            "line": 2,
+            "column": 19,
+            "offset": 28
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 19,
+          "offset": 28
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 19,
+      "offset": 28
+    }
+  }
+}

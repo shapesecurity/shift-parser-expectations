@@ -1,0 +1,151 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "SwitchStatement",
+      "discriminant": {
+        "type": "IdentifierExpression",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          },
+          "end": {
+            "line": 1,
+            "column": 8,
+            "offset": 8
+          }
+        }
+      },
+      "cases": [
+        {
+          "type": "SwitchCase",
+          "test": {
+            "type": "LiteralNumericExpression",
+            "value": 1,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 17,
+                "offset": 17
+              },
+              "end": {
+                "line": 1,
+                "column": 18,
+                "offset": 18
+              }
+            }
+          },
+          "consequent": [
+            {
+              "type": "BlockStatement",
+              "block": {
+                "type": "Block",
+                "statements": [],
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 20,
+                    "offset": 20
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 22,
+                    "offset": 22
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 20,
+                  "offset": 20
+                },
+                "end": {
+                  "line": 1,
+                  "column": 22,
+                  "offset": 22
+                }
+              }
+            },
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "LiteralRegExpExpression",
+                "pattern": "foo",
+                "global": false,
+                "ignoreCase": false,
+                "multiLine": false,
+                "sticky": false,
+                "unicode": false,
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 0,
+                    "offset": 23
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 5,
+                    "offset": 28
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 2,
+                  "column": 0,
+                  "offset": 23
+                },
+                "end": {
+                  "line": 2,
+                  "column": 5,
+                  "offset": 28
+                }
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 12,
+              "offset": 12
+            },
+            "end": {
+              "line": 2,
+              "column": 5,
+              "offset": 28
+            }
+          }
+        }
+      ],
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 7,
+          "offset": 30
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 7,
+      "offset": 30
+    }
+  }
+}

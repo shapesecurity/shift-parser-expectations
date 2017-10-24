@@ -1,0 +1,148 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "VariableDeclarationStatement",
+      "declaration": {
+        "type": "VariableDeclaration",
+        "kind": "var",
+        "declarators": [
+          {
+            "type": "VariableDeclarator",
+            "binding": {
+              "type": "BindingIdentifier",
+              "name": "a",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 4,
+                  "offset": 4
+                },
+                "end": {
+                  "line": 1,
+                  "column": 5,
+                  "offset": 5
+                }
+              }
+            },
+            "init": {
+              "type": "FunctionExpression",
+              "isGenerator": false,
+              "name": {
+                "type": "BindingIdentifier",
+                "name": "arguments",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 17,
+                    "offset": 17
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 26,
+                    "offset": 26
+                  }
+                }
+              },
+              "params": {
+                "type": "FormalParameters",
+                "items": [],
+                "rest": null,
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 26,
+                    "offset": 26
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 28,
+                    "offset": 28
+                  }
+                }
+              },
+              "body": {
+                "type": "FunctionBody",
+                "directives": [],
+                "statements": [],
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 29,
+                    "offset": 29
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 32,
+                    "offset": 32
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 8,
+                  "offset": 8
+                },
+                "end": {
+                  "line": 1,
+                  "column": 32,
+                  "offset": 32
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 4,
+                "offset": 4
+              },
+              "end": {
+                "line": 1,
+                "column": 32,
+                "offset": 32
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 32,
+            "offset": 32
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 33,
+          "offset": 33
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 33,
+      "offset": 33
+    }
+  }
+}

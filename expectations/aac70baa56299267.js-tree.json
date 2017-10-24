@@ -1,0 +1,260 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "FunctionDeclaration",
+      "isGenerator": false,
+      "name": {
+        "type": "BindingIdentifier",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 9,
+            "offset": 9
+          },
+          "end": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          }
+        }
+      },
+      "params": {
+        "type": "FormalParameters",
+        "items": [],
+        "rest": null,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          },
+          "end": {
+            "line": 1,
+            "column": 12,
+            "offset": 12
+          }
+        }
+      },
+      "body": {
+        "type": "FunctionBody",
+        "directives": [],
+        "statements": [
+          {
+            "type": "ReturnStatement",
+            "expression": {
+              "type": "BinaryExpression",
+              "left": {
+                "type": "BinaryExpression",
+                "left": {
+                  "type": "BinaryExpression",
+                  "left": {
+                    "type": "UnaryExpression",
+                    "operator": "void",
+                    "operand": {
+                      "type": "LiteralNumericExpression",
+                      "value": 1,
+                      "loc": {
+                        "start": {
+                          "line": 2,
+                          "column": 17,
+                          "offset": 32
+                        },
+                        "end": {
+                          "line": 2,
+                          "column": 18,
+                          "offset": 33
+                        }
+                      }
+                    },
+                    "loc": {
+                      "start": {
+                        "line": 2,
+                        "column": 12,
+                        "offset": 27
+                      },
+                      "end": {
+                        "line": 2,
+                        "column": 18,
+                        "offset": 33
+                      }
+                    }
+                  },
+                  "operator": ",",
+                  "right": {
+                    "type": "UnaryExpression",
+                    "operator": "void",
+                    "operand": {
+                      "type": "LiteralNumericExpression",
+                      "value": 2,
+                      "loc": {
+                        "start": {
+                          "line": 2,
+                          "column": 25,
+                          "offset": 40
+                        },
+                        "end": {
+                          "line": 2,
+                          "column": 26,
+                          "offset": 41
+                        }
+                      }
+                    },
+                    "loc": {
+                      "start": {
+                        "line": 2,
+                        "column": 20,
+                        "offset": 35
+                      },
+                      "end": {
+                        "line": 2,
+                        "column": 26,
+                        "offset": 41
+                      }
+                    }
+                  },
+                  "loc": {
+                    "start": {
+                      "line": 2,
+                      "column": 12,
+                      "offset": 27
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 26,
+                      "offset": 41
+                    }
+                  }
+                },
+                "operator": ",",
+                "right": {
+                  "type": "IdentifierExpression",
+                  "name": "a",
+                  "loc": {
+                    "start": {
+                      "line": 2,
+                      "column": 28,
+                      "offset": 43
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 29,
+                      "offset": 44
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 12,
+                    "offset": 27
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 29,
+                    "offset": 44
+                  }
+                }
+              },
+              "operator": ",",
+              "right": {
+                "type": "UnaryExpression",
+                "operator": "void",
+                "operand": {
+                  "type": "LiteralNumericExpression",
+                  "value": 3,
+                  "loc": {
+                    "start": {
+                      "line": 2,
+                      "column": 36,
+                      "offset": 51
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 37,
+                      "offset": 52
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 31,
+                    "offset": 46
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 37,
+                    "offset": 52
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 2,
+                  "column": 12,
+                  "offset": 27
+                },
+                "end": {
+                  "line": 2,
+                  "column": 37,
+                  "offset": 52
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 4,
+                "offset": 19
+              },
+              "end": {
+                "line": 2,
+                "column": 39,
+                "offset": 54
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 13,
+            "offset": 13
+          },
+          "end": {
+            "line": 3,
+            "column": 1,
+            "offset": 56
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "column": 1,
+          "offset": 56
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 57
+    }
+  }
+}

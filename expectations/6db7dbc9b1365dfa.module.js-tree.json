@@ -1,0 +1,54 @@
+{
+  "type": "Module",
+  "directives": [],
+  "items": [
+    {
+      "type": "ExportDefault",
+      "body": {
+        "type": "LiteralRegExpExpression",
+        "pattern": "foo",
+        "global": false,
+        "ignoreCase": false,
+        "multiLine": false,
+        "sticky": false,
+        "unicode": false,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 15,
+            "offset": 15
+          },
+          "end": {
+            "line": 1,
+            "column": 20,
+            "offset": 20
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 20,
+          "offset": 20
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 20,
+      "offset": 20
+    }
+  }
+}

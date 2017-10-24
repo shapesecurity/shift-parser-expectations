@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " should not touch this one",
+    "start": {
+      "line": 1,
+      "column": 20,
+      "offset": 20
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 49
+    }
+  }
+]

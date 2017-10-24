@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " 'i' lookup can be observed by obj's getter.",
+    "start": {
+      "line": 4,
+      "column": 22,
+      "offset": 67
+    },
+    "end": {
+      "line": 5,
+      "column": 0,
+      "offset": 114
+    }
+  }
+]

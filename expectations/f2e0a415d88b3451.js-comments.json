@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " Some comment",
+    "start": {
+      "line": 1,
+      "column": 9,
+      "offset": 9
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 25
+    }
+  }
+]

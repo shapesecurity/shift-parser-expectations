@@ -1,0 +1,96 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ForInStatement",
+      "left": {
+        "type": "StaticMemberAssignmentTarget",
+        "object": {
+          "type": "IdentifierExpression",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 1,
+              "column": 5,
+              "offset": 5
+            }
+          }
+        },
+        "property": "b",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 4,
+            "offset": 4
+          },
+          "end": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          }
+        }
+      },
+      "right": {
+        "type": "IdentifierExpression",
+        "name": "c",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 11,
+            "offset": 11
+          },
+          "end": {
+            "line": 1,
+            "column": 12,
+            "offset": 12
+          }
+        }
+      },
+      "body": {
+        "type": "EmptyStatement",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 13,
+            "offset": 13
+          },
+          "end": {
+            "line": 1,
+            "column": 14,
+            "offset": 14
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 14,
+          "offset": 14
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 14,
+      "offset": 14
+    }
+  }
+}

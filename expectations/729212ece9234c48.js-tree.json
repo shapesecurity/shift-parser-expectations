@@ -1,0 +1,96 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "StaticMemberExpression",
+        "object": {
+          "type": "ComputedMemberExpression",
+          "object": {
+            "type": "IdentifierExpression",
+            "name": "a",
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 0,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 1,
+                "offset": 1
+              }
+            }
+          },
+          "expression": {
+            "type": "LiteralNumericExpression",
+            "value": 1,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 2,
+                "offset": 2
+              },
+              "end": {
+                "line": 1,
+                "column": 3,
+                "offset": 3
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 4,
+              "offset": 4
+            }
+          }
+        },
+        "property": "b",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 6,
+            "offset": 6
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 6,
+          "offset": 6
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 6,
+      "offset": 6
+    }
+  }
+}

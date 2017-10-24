@@ -1,0 +1,112 @@
+{
+  "type": "Module",
+  "directives": [],
+  "items": [
+    {
+      "type": "Export",
+      "declaration": {
+        "type": "ClassDeclaration",
+        "name": {
+          "type": "BindingIdentifier",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 13,
+              "offset": 13
+            },
+            "end": {
+              "line": 1,
+              "column": 14,
+              "offset": 14
+            }
+          }
+        },
+        "super": null,
+        "elements": [],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          },
+          "end": {
+            "line": 1,
+            "column": 16,
+            "offset": 16
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 16,
+          "offset": 16
+        }
+      }
+    },
+    {
+      "type": "EmptyStatement",
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 16,
+          "offset": 16
+        },
+        "end": {
+          "line": 1,
+          "column": 17,
+          "offset": 17
+        }
+      }
+    },
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "LiteralNumericExpression",
+        "value": 1,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 17,
+            "offset": 17
+          },
+          "end": {
+            "line": 1,
+            "column": 18,
+            "offset": 18
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 17,
+          "offset": 17
+        },
+        "end": {
+          "line": 1,
+          "column": 18,
+          "offset": 18
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 18,
+      "offset": 18
+    }
+  }
+}

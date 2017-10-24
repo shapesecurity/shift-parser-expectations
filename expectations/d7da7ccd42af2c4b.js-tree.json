@@ -1,0 +1,97 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "CompoundAssignmentExpression",
+        "binding": {
+          "type": "StaticMemberAssignmentTarget",
+          "object": {
+            "type": "IdentifierExpression",
+            "name": "a",
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 0,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 1,
+                "offset": 1
+              }
+            }
+          },
+          "property": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 3,
+              "offset": 3
+            }
+          }
+        },
+        "operator": "*=",
+        "expression": {
+          "type": "LiteralNumericExpression",
+          "value": 1,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 7,
+              "offset": 7
+            },
+            "end": {
+              "line": 1,
+              "column": 8,
+              "offset": 8
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 8,
+            "offset": 8
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 8,
+          "offset": 8
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 8,
+      "offset": 8
+    }
+  }
+}

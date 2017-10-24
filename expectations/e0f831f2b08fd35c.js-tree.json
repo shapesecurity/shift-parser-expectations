@@ -1,0 +1,142 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "LiteralNumericExpression",
+        "value": 9,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 6,
+            "offset": 6
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 7,
+          "offset": 7
+        }
+      }
+    },
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "LiteralNumericExpression",
+        "value": 9,
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 0,
+            "offset": 8
+          },
+          "end": {
+            "line": 2,
+            "column": 6,
+            "offset": 14
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 8
+        },
+        "end": {
+          "line": 2,
+          "column": 7,
+          "offset": 15
+        }
+      }
+    },
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "LiteralNumericExpression",
+        "value": 9,
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 0,
+            "offset": 16
+          },
+          "end": {
+            "line": 3,
+            "column": 4,
+            "offset": 20
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 3,
+          "column": 0,
+          "offset": 16
+        },
+        "end": {
+          "line": 3,
+          "column": 5,
+          "offset": 21
+        }
+      }
+    },
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "LiteralNumericExpression",
+        "value": 9,
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 0,
+            "offset": 22
+          },
+          "end": {
+            "line": 4,
+            "column": 4,
+            "offset": 26
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 4,
+          "column": 0,
+          "offset": 22
+        },
+        "end": {
+          "line": 4,
+          "column": 5,
+          "offset": 27
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 4,
+      "column": 5,
+      "offset": 27
+    }
+  }
+}

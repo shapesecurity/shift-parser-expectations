@@ -1,0 +1,44 @@
+[
+  {
+    "type": "MultiLine",
+    "text": " \"static\" can be a method name! ",
+    "start": {
+      "line": 5,
+      "column": 15,
+      "offset": 90
+    },
+    "end": {
+      "line": 5,
+      "column": 51,
+      "offset": 126
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": " \"get\" can be a method name! ",
+    "start": {
+      "line": 6,
+      "column": 12,
+      "offset": 141
+    },
+    "end": {
+      "line": 6,
+      "column": 45,
+      "offset": 174
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": " \"set\" can be a method name! ",
+    "start": {
+      "line": 7,
+      "column": 12,
+      "offset": 189
+    },
+    "end": {
+      "line": 7,
+      "column": 45,
+      "offset": 222
+    }
+  }
+]

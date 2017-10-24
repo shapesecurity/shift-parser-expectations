@@ -1,0 +1,96 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "TryCatchStatement",
+      "body": {
+        "type": "Block",
+        "statements": [],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 4,
+            "offset": 4
+          },
+          "end": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          }
+        }
+      },
+      "catchClause": {
+        "type": "CatchClause",
+        "binding": {
+          "type": "BindingIdentifier",
+          "name": "arguments",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 15,
+              "offset": 15
+            },
+            "end": {
+              "line": 1,
+              "column": 24,
+              "offset": 24
+            }
+          }
+        },
+        "body": {
+          "type": "Block",
+          "statements": [],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26,
+              "offset": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 29,
+              "offset": 29
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 8,
+            "offset": 8
+          },
+          "end": {
+            "line": 1,
+            "column": 29,
+            "offset": 29
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 29,
+          "offset": 29
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 29,
+      "offset": 29
+    }
+  }
+}

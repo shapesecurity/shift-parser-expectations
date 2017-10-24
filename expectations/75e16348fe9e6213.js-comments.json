@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " this CAN'T safely be shortened to 1 + x() + \"5boo\"",
+    "start": {
+      "line": 5,
+      "column": 0,
+      "offset": 128
+    },
+    "end": {
+      "line": 6,
+      "column": 0,
+      "offset": 182
+    }
+  }
+]

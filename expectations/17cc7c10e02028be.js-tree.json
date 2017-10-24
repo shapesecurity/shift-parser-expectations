@@ -1,0 +1,86 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "IfStatement",
+      "test": {
+        "type": "LiteralNumericExpression",
+        "value": 1,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 3,
+            "offset": 3
+          },
+          "end": {
+            "line": 1,
+            "column": 4,
+            "offset": 4
+          }
+        }
+      },
+      "consequent": {
+        "type": "ExpressionStatement",
+        "expression": {
+          "type": "LiteralRegExpExpression",
+          "pattern": "  foo",
+          "global": false,
+          "ignoreCase": false,
+          "multiLine": false,
+          "sticky": false,
+          "unicode": false,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 5,
+              "offset": 5
+            },
+            "end": {
+              "line": 1,
+              "column": 12,
+              "offset": 12
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 5,
+            "offset": 5
+          },
+          "end": {
+            "line": 1,
+            "column": 12,
+            "offset": 12
+          }
+        }
+      },
+      "alternate": null,
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 12,
+          "offset": 12
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 12,
+      "offset": 12
+    }
+  }
+}

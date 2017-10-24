@@ -1,0 +1,44 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " reported from issue #60",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 27
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " this foo should be dropped",
+    "start": {
+      "line": 3,
+      "column": 10,
+      "offset": 56
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 86
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " this should be transformed to non-assignment expression",
+    "start": {
+      "line": 4,
+      "column": 21,
+      "offset": 107
+    },
+    "end": {
+      "line": 5,
+      "column": 0,
+      "offset": 166
+    }
+  }
+]

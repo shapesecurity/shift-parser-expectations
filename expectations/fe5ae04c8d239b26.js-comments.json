@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " do not concat i=20,i2=30",
+    "start": {
+      "line": 2,
+      "column": 2,
+      "offset": 17
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 45
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "MultiLine",
+    "text": "*\n * @type {number}\n ",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 3,
+      "column": 3,
+      "offset": 25
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": "*\n     * @type {number}\n     ",
+    "start": {
+      "line": 5,
+      "column": 4,
+      "offset": 41
+    },
+    "end": {
+      "line": 7,
+      "column": 7,
+      "offset": 74
+    }
+  }
+]

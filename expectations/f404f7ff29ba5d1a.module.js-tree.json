@@ -1,0 +1,87 @@
+{
+  "type": "Module",
+  "directives": [],
+  "items": [
+    {
+      "type": "ExportDefault",
+      "body": {
+        "type": "FunctionDeclaration",
+        "isGenerator": false,
+        "name": {
+          "type": "BindingIdentifier",
+          "name": "*default*"
+        },
+        "params": {
+          "type": "FormalParameters",
+          "items": [],
+          "rest": null,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 24,
+              "offset": 24
+            },
+            "end": {
+              "line": 1,
+              "column": 26,
+              "offset": 26
+            }
+          }
+        },
+        "body": {
+          "type": "FunctionBody",
+          "directives": [],
+          "statements": [],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 27,
+              "offset": 27
+            },
+            "end": {
+              "line": 1,
+              "column": 29,
+              "offset": 29
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 15,
+            "offset": 15
+          },
+          "end": {
+            "line": 1,
+            "column": 29,
+            "offset": 29
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 29,
+          "offset": 29
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 29,
+      "offset": 29
+    }
+  }
+}

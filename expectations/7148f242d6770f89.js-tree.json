@@ -1,0 +1,112 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "WhileStatement",
+      "test": {
+        "type": "IdentifierExpression",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          },
+          "end": {
+            "line": 1,
+            "column": 8,
+            "offset": 8
+          }
+        }
+      },
+      "body": {
+        "type": "BlockStatement",
+        "block": {
+          "type": "Block",
+          "statements": [
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "IdentifierExpression",
+                "name": "b",
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 2,
+                    "offset": 14
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 3,
+                    "offset": 15
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 2,
+                  "column": 2,
+                  "offset": 14
+                },
+                "end": {
+                  "line": 2,
+                  "column": 4,
+                  "offset": 16
+                }
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 3,
+              "column": 1,
+              "offset": 18
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          },
+          "end": {
+            "line": 3,
+            "column": 1,
+            "offset": 18
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "column": 1,
+          "offset": 18
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 19
+    }
+  }
+}

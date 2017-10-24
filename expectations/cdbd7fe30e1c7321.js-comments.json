@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " should hoist to parameter",
+    "start": {
+      "line": 2,
+      "column": 15,
+      "offset": 30
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 59
+    }
+  }
+]

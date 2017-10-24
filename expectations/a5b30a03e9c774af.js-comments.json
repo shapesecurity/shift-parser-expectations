@@ -1,0 +1,44 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " do not optimize it",
+    "start": {
+      "line": 2,
+      "column": 2,
+      "offset": 8
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 30
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " do not optimize it",
+    "start": {
+      "line": 7,
+      "column": 2,
+      "offset": 83
+    },
+    "end": {
+      "line": 8,
+      "column": 0,
+      "offset": 105
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " do not optimize it",
+    "start": {
+      "line": 12,
+      "column": 2,
+      "offset": 156
+    },
+    "end": {
+      "line": 13,
+      "column": 0,
+      "offset": 178
+    }
+  }
+]

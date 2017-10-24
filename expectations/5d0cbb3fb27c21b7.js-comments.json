@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " This should not removed and translation should not occur.",
+    "start": {
+      "line": 6,
+      "column": 13,
+      "offset": 86
+    },
+    "end": {
+      "line": 7,
+      "column": 0,
+      "offset": 147
+    }
+  }
+]

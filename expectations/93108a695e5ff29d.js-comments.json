@@ -1,0 +1,72 @@
+[
+  {
+    "type": "MultiLine",
+    "text": " I would\n                              insert something\n                              there, but I'm sort\n                              of lazy so whatever.\n  ",
+    "start": {
+      "line": 3,
+      "column": 16,
+      "offset": 39
+    },
+    "end": {
+      "line": 7,
+      "column": 4,
+      "offset": 202
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": " I would insert something there, ",
+    "start": {
+      "line": 13,
+      "column": 16,
+      "offset": 271
+    },
+    "end": {
+      "line": 13,
+      "column": 53,
+      "offset": 308
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": "\n                             but I'm sort of lazy so\n  ",
+    "start": {
+      "line": 13,
+      "column": 54,
+      "offset": 309
+    },
+    "end": {
+      "line": 15,
+      "column": 4,
+      "offset": 369
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": "                      whatever. ",
+    "start": {
+      "line": 15,
+      "column": 5,
+      "offset": 370
+    },
+    "end": {
+      "line": 15,
+      "column": 41,
+      "offset": 406
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " I would insert something there, but I'm sort of lazy so whatever.",
+    "start": {
+      "line": 21,
+      "column": 16,
+      "offset": 475
+    },
+    "end": {
+      "line": 22,
+      "column": 0,
+      "offset": 544
+    }
+  }
+]

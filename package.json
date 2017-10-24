@@ -1,0 +1,27 @@
+{
+  "name": "shift-parser-expectations",
+  "version": "0.0.1",
+  "description": "Shift ASTs for test262-parser-tests",
+  "author": "Shape Security",
+  "homepage": "https://github.com/shapesecurity/shift-parser-expectations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shapesecurity/shift-parser-expectations.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "node generate-expectations.js",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "files": [
+    "expectations/"
+  ],
+  "devDependencies": {
+    "shift-parser": "5.2.2",
+    "shift-spec": "2016.0.0",
+    "test262-parser-tests": "0.0.3"
+  }
+}

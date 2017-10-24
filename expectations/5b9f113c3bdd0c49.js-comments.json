@@ -1,0 +1,58 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " completely discarding the `if` would introduce some",
+    "start": {
+      "line": 5,
+      "column": 12,
+      "offset": 98
+    },
+    "end": {
+      "line": 6,
+      "column": 0,
+      "offset": 154
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " bugs.  UglifyJS v1 doesn't deal with this issue; in v2",
+    "start": {
+      "line": 6,
+      "column": 12,
+      "offset": 166
+    },
+    "end": {
+      "line": 7,
+      "column": 0,
+      "offset": 225
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " we copy any declarations to the upper scope.",
+    "start": {
+      "line": 7,
+      "column": 12,
+      "offset": 237
+    },
+    "end": {
+      "line": 8,
+      "column": 0,
+      "offset": 286
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " but nested declarations should not be kept.",
+    "start": {
+      "line": 12,
+      "column": 16,
+      "offset": 403
+    },
+    "end": {
+      "line": 13,
+      "column": 0,
+      "offset": 451
+    }
+  }
+]

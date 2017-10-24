@@ -1,0 +1,168 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "FunctionExpression",
+        "isGenerator": false,
+        "name": null,
+        "params": {
+          "type": "FormalParameters",
+          "items": [],
+          "rest": null,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 12,
+              "offset": 12
+            }
+          }
+        },
+        "body": {
+          "type": "FunctionBody",
+          "directives": [
+            {
+              "type": "Directive",
+              "rawValue": "use strict",
+              "loc": {
+                "start": {
+                  "line": 2,
+                  "column": 4,
+                  "offset": 19
+                },
+                "end": {
+                  "line": 2,
+                  "column": 17,
+                  "offset": 32
+                }
+              }
+            }
+          ],
+          "statements": [
+            {
+              "type": "FunctionDeclaration",
+              "isGenerator": false,
+              "name": {
+                "type": "BindingIdentifier",
+                "name": "a",
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 13,
+                    "offset": 46
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 14,
+                    "offset": 47
+                  }
+                }
+              },
+              "params": {
+                "type": "FormalParameters",
+                "items": [],
+                "rest": null,
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 14,
+                    "offset": 47
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 16,
+                    "offset": 49
+                  }
+                }
+              },
+              "body": {
+                "type": "FunctionBody",
+                "directives": [],
+                "statements": [],
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 17,
+                    "offset": 50
+                  },
+                  "end": {
+                    "line": 4,
+                    "column": 5,
+                    "offset": 57
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 3,
+                  "column": 4,
+                  "offset": 37
+                },
+                "end": {
+                  "line": 4,
+                  "column": 5,
+                  "offset": 57
+                }
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 13,
+              "offset": 13
+            },
+            "end": {
+              "line": 5,
+              "column": 1,
+              "offset": 59
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 1,
+            "offset": 1
+          },
+          "end": {
+            "line": 5,
+            "column": 1,
+            "offset": 59
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "column": 3,
+          "offset": 61
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 6,
+      "column": 0,
+      "offset": 62
+    }
+  }
+}

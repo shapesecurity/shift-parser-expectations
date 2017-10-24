@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " this 'test2' to 'a'",
+    "start": {
+      "line": 2,
+      "column": 4,
+      "offset": 9
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 32
+    }
+  }
+]

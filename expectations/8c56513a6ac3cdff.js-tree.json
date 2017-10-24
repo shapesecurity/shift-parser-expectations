@@ -1,0 +1,96 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "ObjectExpression",
+        "properties": [
+          {
+            "type": "DataProperty",
+            "name": {
+              "type": "StaticPropertyName",
+              "value": "a",
+              "loc": {
+                "start": {
+                  "line": 3,
+                  "column": 4,
+                  "offset": 40
+                },
+                "end": {
+                  "line": 3,
+                  "column": 5,
+                  "offset": 41
+                }
+              }
+            },
+            "expression": {
+              "type": "LiteralNullExpression",
+              "loc": {
+                "start": {
+                  "line": 3,
+                  "column": 7,
+                  "offset": 43
+                },
+                "end": {
+                  "line": 3,
+                  "column": 11,
+                  "offset": 47
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 3,
+                "column": 4,
+                "offset": 40
+              },
+              "end": {
+                "line": 3,
+                "column": 11,
+                "offset": 47
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14,
+            "offset": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 1,
+            "offset": 49
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 2,
+          "offset": 50
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 5,
+      "column": 0,
+      "offset": 51
+    }
+  }
+}

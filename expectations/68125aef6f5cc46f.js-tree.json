@@ -1,0 +1,66 @@
+{
+  "type": "Script",
+  "directives": [
+    {
+      "type": "Directive",
+      "rawValue": "use strict",
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 13,
+          "offset": 13
+        }
+      }
+    }
+  ],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "LiteralNumericExpression",
+        "value": 0,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14,
+            "offset": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 17,
+            "offset": 17
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 14,
+          "offset": 14
+        },
+        "end": {
+          "line": 1,
+          "column": 17,
+          "offset": 17
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 17,
+      "offset": 17
+    }
+  }
+}

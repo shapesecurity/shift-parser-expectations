@@ -1,0 +1,66 @@
+{
+  "type": "Module",
+  "directives": [],
+  "items": [
+    {
+      "type": "ExportDefault",
+      "body": {
+        "type": "ClassDeclaration",
+        "name": {
+          "type": "BindingIdentifier",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 21,
+              "offset": 21
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 22
+            }
+          }
+        },
+        "super": null,
+        "elements": [],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 15,
+            "offset": 15
+          },
+          "end": {
+            "line": 1,
+            "column": 25,
+            "offset": 25
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 25,
+          "offset": 25
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 25,
+      "offset": 25
+    }
+  }
+}

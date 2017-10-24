@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " this break refers to the for, not to the switch; thus it",
+    "start": {
+      "line": 8,
+      "column": 30,
+      "offset": 150
+    },
+    "end": {
+      "line": 9,
+      "column": 0,
+      "offset": 210
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " shouldn't ruin our optimization",
+    "start": {
+      "line": 9,
+      "column": 30,
+      "offset": 240
+    },
+    "end": {
+      "line": 10,
+      "column": 0,
+      "offset": 275
+    }
+  }
+]

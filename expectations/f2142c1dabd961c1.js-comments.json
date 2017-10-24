@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MultiLine",
+    "text": " not comment",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 16,
+      "offset": 16
+    }
+  }
+]

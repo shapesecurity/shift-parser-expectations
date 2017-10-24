@@ -1,0 +1,67 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "TemplateExpression",
+        "tag": null,
+        "elements": [
+          {
+            "type": "TemplateElement",
+            "rawValue": "\\u{000042}\\u0042\\x42u0\\A",
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 1
+              },
+              "end": {
+                "line": 1,
+                "column": 25,
+                "offset": 25
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 26,
+            "offset": 26
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 26,
+          "offset": 26
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 26,
+      "offset": 26
+    }
+  }
+}

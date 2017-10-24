@@ -1,0 +1,197 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ClassDeclaration",
+      "name": {
+        "type": "BindingIdentifier",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 6,
+            "offset": 6
+          },
+          "end": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          }
+        }
+      },
+      "super": null,
+      "elements": [
+        {
+          "type": "ClassElement",
+          "isStatic": false,
+          "method": {
+            "type": "Method",
+            "isGenerator": false,
+            "name": {
+              "type": "StaticPropertyName",
+              "value": "b",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 10,
+                  "offset": 10
+                },
+                "end": {
+                  "line": 1,
+                  "column": 11,
+                  "offset": 11
+                }
+              }
+            },
+            "params": {
+              "type": "FormalParameters",
+              "items": [],
+              "rest": null,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 11,
+                  "offset": 11
+                },
+                "end": {
+                  "line": 1,
+                  "column": 13,
+                  "offset": 13
+                }
+              }
+            },
+            "body": {
+              "type": "FunctionBody",
+              "directives": [],
+              "statements": [
+                {
+                  "type": "ExpressionStatement",
+                  "expression": {
+                    "type": "NewExpression",
+                    "callee": {
+                      "type": "StaticMemberExpression",
+                      "object": {
+                        "type": "Super",
+                        "loc": {
+                          "start": {
+                            "line": 1,
+                            "column": 20,
+                            "offset": 20
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 25,
+                            "offset": 25
+                          }
+                        }
+                      },
+                      "property": "c",
+                      "loc": {
+                        "start": {
+                          "line": 1,
+                          "column": 20,
+                          "offset": 20
+                        },
+                        "end": {
+                          "line": 1,
+                          "column": 27,
+                          "offset": 27
+                        }
+                      }
+                    },
+                    "arguments": [],
+                    "loc": {
+                      "start": {
+                        "line": 1,
+                        "column": 16,
+                        "offset": 16
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 27,
+                        "offset": 27
+                      }
+                    }
+                  },
+                  "loc": {
+                    "start": {
+                      "line": 1,
+                      "column": 16,
+                      "offset": 16
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 28,
+                      "offset": 28
+                    }
+                  }
+                }
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 14,
+                  "offset": 14
+                },
+                "end": {
+                  "line": 1,
+                  "column": 30,
+                  "offset": 30
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 10,
+                "offset": 10
+              },
+              "end": {
+                "line": 1,
+                "column": 30,
+                "offset": 30
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 30,
+              "offset": 30
+            }
+          }
+        }
+      ],
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 32,
+          "offset": 32
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 32,
+      "offset": 32
+    }
+  }
+}

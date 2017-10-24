@@ -1,0 +1,135 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "FunctionDeclaration",
+      "isGenerator": false,
+      "name": {
+        "type": "BindingIdentifier",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 9,
+            "offset": 9
+          },
+          "end": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          }
+        }
+      },
+      "params": {
+        "type": "FormalParameters",
+        "items": [
+          {
+            "type": "ArrayBinding",
+            "elements": [
+              {
+                "type": "BindingIdentifier",
+                "name": "b",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 13,
+                    "offset": 13
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 14,
+                    "offset": 14
+                  }
+                }
+              },
+              {
+                "type": "BindingIdentifier",
+                "name": "c",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 16,
+                    "offset": 16
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 17,
+                    "offset": 17
+                  }
+                }
+              }
+            ],
+            "rest": null,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 11,
+                "offset": 11
+              },
+              "end": {
+                "line": 1,
+                "column": 19,
+                "offset": 19
+              }
+            }
+          }
+        ],
+        "rest": null,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          },
+          "end": {
+            "line": 1,
+            "column": 20,
+            "offset": 20
+          }
+        }
+      },
+      "body": {
+        "type": "FunctionBody",
+        "directives": [],
+        "statements": [],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 20,
+            "offset": 20
+          },
+          "end": {
+            "line": 1,
+            "column": 22,
+            "offset": 22
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 22,
+          "offset": 22
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 22,
+      "offset": 22
+    }
+  }
+}

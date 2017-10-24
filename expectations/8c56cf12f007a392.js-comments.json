@@ -1,0 +1,16 @@
+[
+  {
+    "type": "HTMLOpen",
+    "text": "bar",
+    "start": {
+      "line": 1,
+      "column": 2,
+      "offset": 2
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 10
+    }
+  }
+]

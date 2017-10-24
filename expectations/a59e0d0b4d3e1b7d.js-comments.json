@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MultiLine",
+    "text": " multiline\ncomment\nshould\nbe\nignored ",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 5,
+      "column": 10,
+      "offset": 41
+    }
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "LabeledStatement",
+      "label": "b",
+      "body": {
+        "type": "WhileStatement",
+        "test": {
+          "type": "IdentifierExpression",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 11,
+              "offset": 11
+            }
+          }
+        },
+        "body": {
+          "type": "BreakStatement",
+          "label": "b",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 13,
+              "offset": 13
+            },
+            "end": {
+              "line": 1,
+              "column": 21,
+              "offset": 21
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 3,
+            "offset": 3
+          },
+          "end": {
+            "line": 1,
+            "column": 21,
+            "offset": 21
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 21,
+          "offset": 21
+        }
+      }
+    },
+    {
+      "type": "LabeledStatement",
+      "label": "c",
+      "body": {
+        "type": "WhileStatement",
+        "test": {
+          "type": "IdentifierExpression",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 10,
+              "offset": 32
+            },
+            "end": {
+              "line": 2,
+              "column": 11,
+              "offset": 33
+            }
+          }
+        },
+        "body": {
+          "type": "BreakStatement",
+          "label": null,
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 13,
+              "offset": 35
+            },
+            "end": {
+              "line": 2,
+              "column": 19,
+              "offset": 41
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 3,
+            "offset": 25
+          },
+          "end": {
+            "line": 2,
+            "column": 19,
+            "offset": 41
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 22
+        },
+        "end": {
+          "line": 2,
+          "column": 19,
+          "offset": 41
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 42
+    }
+  }
+}

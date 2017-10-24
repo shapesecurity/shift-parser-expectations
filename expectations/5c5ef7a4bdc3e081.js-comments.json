@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " access to global should be assumed to have side effects",
+    "start": {
+      "line": 2,
+      "column": 0,
+      "offset": 7
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 66
+    }
+  }
+]

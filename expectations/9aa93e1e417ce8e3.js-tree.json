@@ -1,0 +1,96 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ForInStatement",
+      "left": {
+        "type": "AssignmentTargetIdentifier",
+        "name": "let",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 5,
+            "offset": 5
+          },
+          "end": {
+            "line": 1,
+            "column": 8,
+            "offset": 8
+          }
+        }
+      },
+      "right": {
+        "type": "IdentifierExpression",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 12,
+            "offset": 12
+          },
+          "end": {
+            "line": 1,
+            "column": 13,
+            "offset": 13
+          }
+        }
+      },
+      "body": {
+        "type": "BlockStatement",
+        "block": {
+          "type": "Block",
+          "statements": [],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 15,
+              "offset": 15
+            },
+            "end": {
+              "line": 1,
+              "column": 17,
+              "offset": 17
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 15,
+            "offset": 15
+          },
+          "end": {
+            "line": 1,
+            "column": 17,
+            "offset": 17
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 17,
+          "offset": 17
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 18
+    }
+  }
+}

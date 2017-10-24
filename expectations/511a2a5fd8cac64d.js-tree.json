@@ -1,0 +1,306 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "LabeledStatement",
+      "label": "d",
+      "body": {
+        "type": "BlockStatement",
+        "block": {
+          "type": "Block",
+          "statements": [
+            {
+              "type": "LabeledStatement",
+              "label": "b",
+              "body": {
+                "type": "BlockStatement",
+                "block": {
+                  "type": "Block",
+                  "statements": [
+                    {
+                      "type": "IfStatement",
+                      "test": {
+                        "type": "IdentifierExpression",
+                        "name": "a",
+                        "loc": {
+                          "start": {
+                            "line": 4,
+                            "column": 12,
+                            "offset": 53
+                          },
+                          "end": {
+                            "line": 4,
+                            "column": 13,
+                            "offset": 54
+                          }
+                        }
+                      },
+                      "consequent": {
+                        "type": "BreakStatement",
+                        "label": "b",
+                        "loc": {
+                          "start": {
+                            "line": 4,
+                            "column": 15,
+                            "offset": 56
+                          },
+                          "end": {
+                            "line": 4,
+                            "column": 23,
+                            "offset": 64
+                          }
+                        }
+                      },
+                      "alternate": null,
+                      "loc": {
+                        "start": {
+                          "line": 4,
+                          "column": 8,
+                          "offset": 49
+                        },
+                        "end": {
+                          "line": 4,
+                          "column": 23,
+                          "offset": 64
+                        }
+                      }
+                    },
+                    {
+                      "type": "IfStatement",
+                      "test": {
+                        "type": "IdentifierExpression",
+                        "name": "a",
+                        "loc": {
+                          "start": {
+                            "line": 5,
+                            "column": 12,
+                            "offset": 77
+                          },
+                          "end": {
+                            "line": 5,
+                            "column": 13,
+                            "offset": 78
+                          }
+                        }
+                      },
+                      "consequent": {
+                        "type": "BreakStatement",
+                        "label": "b",
+                        "loc": {
+                          "start": {
+                            "line": 5,
+                            "column": 15,
+                            "offset": 80
+                          },
+                          "end": {
+                            "line": 5,
+                            "column": 23,
+                            "offset": 88
+                          }
+                        }
+                      },
+                      "alternate": null,
+                      "loc": {
+                        "start": {
+                          "line": 5,
+                          "column": 8,
+                          "offset": 73
+                        },
+                        "end": {
+                          "line": 5,
+                          "column": 23,
+                          "offset": 88
+                        }
+                      }
+                    },
+                    {
+                      "type": "IfStatement",
+                      "test": {
+                        "type": "IdentifierExpression",
+                        "name": "a",
+                        "loc": {
+                          "start": {
+                            "line": 6,
+                            "column": 12,
+                            "offset": 101
+                          },
+                          "end": {
+                            "line": 6,
+                            "column": 13,
+                            "offset": 102
+                          }
+                        }
+                      },
+                      "consequent": {
+                        "type": "BreakStatement",
+                        "label": "b",
+                        "loc": {
+                          "start": {
+                            "line": 6,
+                            "column": 15,
+                            "offset": 104
+                          },
+                          "end": {
+                            "line": 6,
+                            "column": 23,
+                            "offset": 112
+                          }
+                        }
+                      },
+                      "alternate": null,
+                      "loc": {
+                        "start": {
+                          "line": 6,
+                          "column": 8,
+                          "offset": 97
+                        },
+                        "end": {
+                          "line": 6,
+                          "column": 23,
+                          "offset": 112
+                        }
+                      }
+                    }
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 3,
+                      "column": 7,
+                      "offset": 39
+                    },
+                    "end": {
+                      "line": 7,
+                      "column": 5,
+                      "offset": 118
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 7,
+                    "offset": 39
+                  },
+                  "end": {
+                    "line": 7,
+                    "column": 5,
+                    "offset": 118
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 3,
+                  "column": 4,
+                  "offset": 36
+                },
+                "end": {
+                  "line": 7,
+                  "column": 5,
+                  "offset": 118
+                }
+              }
+            },
+            {
+              "type": "IfStatement",
+              "test": {
+                "type": "IdentifierExpression",
+                "name": "c",
+                "loc": {
+                  "start": {
+                    "line": 8,
+                    "column": 8,
+                    "offset": 127
+                  },
+                  "end": {
+                    "line": 8,
+                    "column": 9,
+                    "offset": 128
+                  }
+                }
+              },
+              "consequent": {
+                "type": "BreakStatement",
+                "label": "d",
+                "loc": {
+                  "start": {
+                    "line": 8,
+                    "column": 11,
+                    "offset": 130
+                  },
+                  "end": {
+                    "line": 8,
+                    "column": 19,
+                    "offset": 138
+                  }
+                }
+              },
+              "alternate": null,
+              "loc": {
+                "start": {
+                  "line": 8,
+                  "column": 4,
+                  "offset": 123
+                },
+                "end": {
+                  "line": 8,
+                  "column": 19,
+                  "offset": 138
+                }
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 9,
+              "column": 1,
+              "offset": 140
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 3,
+            "offset": 3
+          },
+          "end": {
+            "line": 9,
+            "column": 1,
+            "offset": 140
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 9,
+          "column": 1,
+          "offset": 140
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 10,
+      "column": 0,
+      "offset": 141
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "CallExpression",
+        "callee": {
+          "type": "IdentifierExpression",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 1,
+              "offset": 1
+            }
+          }
+        },
+        "arguments": [
+          {
+            "type": "TemplateExpression",
+            "tag": null,
+            "elements": [
+              {
+                "type": "TemplateElement",
+                "rawValue": "<span>",
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 5,
+                    "offset": 8
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 11,
+                    "offset": 14
+                  }
+                }
+              },
+              {
+                "type": "IdentifierExpression",
+                "name": "b",
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 13,
+                    "offset": 16
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 14,
+                    "offset": 17
+                  }
+                }
+              },
+              {
+                "type": "TemplateElement",
+                "rawValue": "</span>",
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 15,
+                    "offset": 18
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 22,
+                    "offset": 25
+                  }
+                }
+              }
+            ],
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 4,
+                "offset": 7
+              },
+              "end": {
+                "line": 2,
+                "column": 23,
+                "offset": 26
+              }
+            }
+          },
+          {
+            "type": "TemplateExpression",
+            "tag": null,
+            "elements": [
+              {
+                "type": "TemplateElement",
+                "rawValue": "<a href=\"",
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 5,
+                    "offset": 33
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 14,
+                    "offset": 42
+                  }
+                }
+              },
+              {
+                "type": "IdentifierExpression",
+                "name": "c",
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 16,
+                    "offset": 44
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 17,
+                    "offset": 45
+                  }
+                }
+              },
+              {
+                "type": "TemplateElement",
+                "rawValue": "\">",
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 18,
+                    "offset": 46
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 20,
+                    "offset": 48
+                  }
+                }
+              },
+              {
+                "type": "IdentifierExpression",
+                "name": "d",
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 22,
+                    "offset": 50
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 23,
+                    "offset": 51
+                  }
+                }
+              },
+              {
+                "type": "TemplateElement",
+                "rawValue": "</a>",
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 24,
+                    "offset": 52
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 28,
+                    "offset": 56
+                  }
+                }
+              }
+            ],
+            "loc": {
+              "start": {
+                "line": 3,
+                "column": 4,
+                "offset": 32
+              },
+              "end": {
+                "line": 3,
+                "column": 29,
+                "offset": 57
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 4,
+            "column": 1,
+            "offset": 59
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 2,
+          "offset": 60
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 4,
+      "column": 2,
+      "offset": 60
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " compress these",
+    "start": {
+      "line": 2,
+      "column": 0,
+      "offset": 7
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 25
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " don't compress these",
+    "start": {
+      "line": 23,
+      "column": 0,
+      "offset": 420
+    },
+    "end": {
+      "line": 24,
+      "column": 0,
+      "offset": 444
+    }
+  }
+]

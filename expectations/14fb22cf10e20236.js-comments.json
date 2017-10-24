@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " Don't transform to 0,typeof ident",
+    "start": {
+      "line": 1,
+      "column": 15,
+      "offset": 15
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 52
+    }
+  }
+]

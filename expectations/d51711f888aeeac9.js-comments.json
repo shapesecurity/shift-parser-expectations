@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " should be empty statement",
+    "start": {
+      "line": 1,
+      "column": 24,
+      "offset": 24
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 53
+    }
+  }
+]

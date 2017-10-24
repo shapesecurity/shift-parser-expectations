@@ -1,0 +1,64 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "EmptyStatement",
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 3
+        },
+        "end": {
+          "line": 2,
+          "column": 1,
+          "offset": 4
+        }
+      }
+    },
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "IdentifierExpression",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 1,
+            "offset": 4
+          },
+          "end": {
+            "line": 2,
+            "column": 2,
+            "offset": 5
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 1,
+          "offset": 4
+        },
+        "end": {
+          "line": 2,
+          "column": 3,
+          "offset": 6
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 3,
+      "offset": 6
+    }
+  }
+}

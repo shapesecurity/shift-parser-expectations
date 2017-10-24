@@ -1,0 +1,44 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " TODO(Constellation):",
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 2,
+      "column": 0,
+      "offset": 24
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " This transformation sometimes make script bigger size.",
+    "start": {
+      "line": 2,
+      "column": 0,
+      "offset": 24
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 82
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " So we should handle it in post processing pass.",
+    "start": {
+      "line": 3,
+      "column": 0,
+      "offset": 82
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 133
+    }
+  }
+]

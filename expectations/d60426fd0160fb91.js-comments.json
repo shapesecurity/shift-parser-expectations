@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " not void context",
+    "start": {
+      "line": 2,
+      "column": 2,
+      "offset": 17
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 37
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " do not optimize",
+    "start": {
+      "line": 3,
+      "column": 2,
+      "offset": 39
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 58
+    }
+  }
+]

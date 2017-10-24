@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " getter is not observable after f()",
+    "start": {
+      "line": 3,
+      "column": 23,
+      "offset": 53
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 91
+    }
+  }
+]

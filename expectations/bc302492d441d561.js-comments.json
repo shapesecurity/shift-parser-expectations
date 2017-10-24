@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MultiLine",
+    "text": " sync ",
+    "start": {
+      "line": 1,
+      "column": 24,
+      "offset": 24
+    },
+    "end": {
+      "line": 1,
+      "column": 34,
+      "offset": 34
+    }
+  }
+]

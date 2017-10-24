@@ -1,0 +1,30 @@
+[
+  {
+    "type": "MultiLine",
+    "text": "@ngInject",
+    "start": {
+      "line": 3,
+      "column": 8,
+      "offset": 29
+    },
+    "end": {
+      "line": 3,
+      "column": 21,
+      "offset": 42
+    }
+  },
+  {
+    "type": "MultiLine",
+    "text": "@ngInject",
+    "start": {
+      "line": 8,
+      "column": 8,
+      "offset": 118
+    },
+    "end": {
+      "line": 8,
+      "column": 21,
+      "offset": 131
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " This must not be removed.",
+    "start": {
+      "line": 6,
+      "column": 10,
+      "offset": 77
+    },
+    "end": {
+      "line": 7,
+      "column": 0,
+      "offset": 106
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " 'i' should remain",
+    "start": {
+      "line": 4,
+      "column": 18,
+      "offset": 62
+    },
+    "end": {
+      "line": 5,
+      "column": 0,
+      "offset": 83
+    }
+  }
+]

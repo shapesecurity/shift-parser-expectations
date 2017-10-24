@@ -1,0 +1,114 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "WhileStatement",
+      "test": {
+        "type": "LiteralBooleanExpression",
+        "value": true,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 6,
+            "offset": 6
+          },
+          "end": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          }
+        }
+      },
+      "body": {
+        "type": "VariableDeclarationStatement",
+        "declaration": {
+          "type": "VariableDeclaration",
+          "kind": "var",
+          "declarators": [
+            {
+              "type": "VariableDeclarator",
+              "binding": {
+                "type": "BindingIdentifier",
+                "name": "a",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 16,
+                    "offset": 16
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 17,
+                    "offset": 17
+                  }
+                }
+              },
+              "init": null,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 16,
+                  "offset": 16
+                },
+                "end": {
+                  "line": 1,
+                  "column": 17,
+                  "offset": 17
+                }
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 12,
+              "offset": 12
+            },
+            "end": {
+              "line": 1,
+              "column": 17,
+              "offset": 17
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 12,
+            "offset": 12
+          },
+          "end": {
+            "line": 1,
+            "column": 17,
+            "offset": 17
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 17,
+          "offset": 17
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 17,
+      "offset": 17
+    }
+  }
+}

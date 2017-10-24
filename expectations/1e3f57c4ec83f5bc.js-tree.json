@@ -1,0 +1,228 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "CallExpression",
+        "callee": {
+          "type": "IdentifierExpression",
+          "name": "a",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 1,
+              "offset": 1
+            }
+          }
+        },
+        "arguments": [
+          {
+            "type": "CallExpression",
+            "callee": {
+              "type": "IdentifierExpression",
+              "name": "b",
+              "loc": {
+                "start": {
+                  "line": 2,
+                  "column": 1,
+                  "offset": 4
+                },
+                "end": {
+                  "line": 2,
+                  "column": 2,
+                  "offset": 5
+                }
+              }
+            },
+            "arguments": [
+              {
+                "type": "BinaryExpression",
+                "left": {
+                  "type": "IdentifierExpression",
+                  "name": "c",
+                  "loc": {
+                    "start": {
+                      "line": 2,
+                      "column": 3,
+                      "offset": 6
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 4,
+                      "offset": 7
+                    }
+                  }
+                },
+                "operator": "+",
+                "right": {
+                  "type": "LiteralStringExpression",
+                  "value": "d",
+                  "loc": {
+                    "start": {
+                      "line": 2,
+                      "column": 7,
+                      "offset": 10
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 10,
+                      "offset": 13
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 2,
+                    "column": 3,
+                    "offset": 6
+                  },
+                  "end": {
+                    "line": 2,
+                    "column": 10,
+                    "offset": 13
+                  }
+                }
+              }
+            ],
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 1,
+                "offset": 4
+              },
+              "end": {
+                "line": 2,
+                "column": 11,
+                "offset": 14
+              }
+            }
+          },
+          {
+            "type": "CallExpression",
+            "callee": {
+              "type": "IdentifierExpression",
+              "name": "b",
+              "loc": {
+                "start": {
+                  "line": 3,
+                  "column": 1,
+                  "offset": 17
+                },
+                "end": {
+                  "line": 3,
+                  "column": 2,
+                  "offset": 18
+                }
+              }
+            },
+            "arguments": [
+              {
+                "type": "BinaryExpression",
+                "left": {
+                  "type": "LiteralStringExpression",
+                  "value": "d",
+                  "loc": {
+                    "start": {
+                      "line": 3,
+                      "column": 3,
+                      "offset": 19
+                    },
+                    "end": {
+                      "line": 3,
+                      "column": 6,
+                      "offset": 22
+                    }
+                  }
+                },
+                "operator": "+",
+                "right": {
+                  "type": "IdentifierExpression",
+                  "name": "c",
+                  "loc": {
+                    "start": {
+                      "line": 3,
+                      "column": 9,
+                      "offset": 25
+                    },
+                    "end": {
+                      "line": 3,
+                      "column": 10,
+                      "offset": 26
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 3,
+                    "offset": 19
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 10,
+                    "offset": 26
+                  }
+                }
+              }
+            ],
+            "loc": {
+              "start": {
+                "line": 3,
+                "column": 1,
+                "offset": 17
+              },
+              "end": {
+                "line": 3,
+                "column": 11,
+                "offset": 27
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 4,
+            "column": 1,
+            "offset": 29
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 2,
+          "offset": 30
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 4,
+      "column": 2,
+      "offset": 30
+    }
+  }
+}

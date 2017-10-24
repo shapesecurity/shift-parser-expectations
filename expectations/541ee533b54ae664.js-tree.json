@@ -1,0 +1,101 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "FunctionDeclaration",
+      "isGenerator": false,
+      "name": {
+        "type": "BindingIdentifier",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 9,
+            "offset": 9
+          },
+          "end": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          }
+        }
+      },
+      "params": {
+        "type": "FormalParameters",
+        "items": [
+          {
+            "type": "BindingIdentifier",
+            "name": "__proto__",
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 11,
+                "offset": 11
+              },
+              "end": {
+                "line": 1,
+                "column": 20,
+                "offset": 20
+              }
+            }
+          }
+        ],
+        "rest": null,
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 10,
+            "offset": 10
+          },
+          "end": {
+            "line": 1,
+            "column": 21,
+            "offset": 21
+          }
+        }
+      },
+      "body": {
+        "type": "FunctionBody",
+        "directives": [],
+        "statements": [],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 22,
+            "offset": 22
+          },
+          "end": {
+            "line": 1,
+            "column": 25,
+            "offset": 25
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 25,
+          "offset": 25
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 25,
+      "offset": 25
+    }
+  }
+}

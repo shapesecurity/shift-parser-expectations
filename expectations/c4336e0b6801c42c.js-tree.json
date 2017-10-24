@@ -1,0 +1,179 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "ObjectExpression",
+        "properties": [
+          {
+            "type": "Method",
+            "isGenerator": true,
+            "name": {
+              "type": "StaticPropertyName",
+              "value": "a",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 4,
+                  "offset": 4
+                },
+                "end": {
+                  "line": 1,
+                  "column": 5,
+                  "offset": 5
+                }
+              }
+            },
+            "params": {
+              "type": "FormalParameters",
+              "items": [],
+              "rest": null,
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 5,
+                  "offset": 5
+                },
+                "end": {
+                  "line": 1,
+                  "column": 7,
+                  "offset": 7
+                }
+              }
+            },
+            "body": {
+              "type": "FunctionBody",
+              "directives": [],
+              "statements": [
+                {
+                  "type": "ExpressionStatement",
+                  "expression": {
+                    "type": "YieldExpression",
+                    "expression": null,
+                    "loc": {
+                      "start": {
+                        "line": 2,
+                        "column": 2,
+                        "offset": 13
+                      },
+                      "end": {
+                        "line": 2,
+                        "column": 7,
+                        "offset": 18
+                      }
+                    }
+                  },
+                  "loc": {
+                    "start": {
+                      "line": 2,
+                      "column": 2,
+                      "offset": 13
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 7,
+                      "offset": 18
+                    }
+                  }
+                },
+                {
+                  "type": "ExpressionStatement",
+                  "expression": {
+                    "type": "LiteralNumericExpression",
+                    "value": 1,
+                    "loc": {
+                      "start": {
+                        "line": 3,
+                        "column": 2,
+                        "offset": 21
+                      },
+                      "end": {
+                        "line": 3,
+                        "column": 3,
+                        "offset": 22
+                      }
+                    }
+                  },
+                  "loc": {
+                    "start": {
+                      "line": 3,
+                      "column": 2,
+                      "offset": 21
+                    },
+                    "end": {
+                      "line": 3,
+                      "column": 3,
+                      "offset": 22
+                    }
+                  }
+                }
+              ],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 8,
+                  "offset": 8
+                },
+                "end": {
+                  "line": 4,
+                  "column": 1,
+                  "offset": 24
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 3,
+                "offset": 3
+              },
+              "end": {
+                "line": 4,
+                "column": 1,
+                "offset": 24
+              }
+            }
+          }
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 1,
+            "offset": 1
+          },
+          "end": {
+            "line": 4,
+            "column": 3,
+            "offset": 26
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 4,
+          "offset": 27
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 5,
+      "column": 0,
+      "offset": 28
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "LabeledStatement",
+      "label": "a",
+      "body": {
+        "type": "DoWhileStatement",
+        "body": {
+          "type": "ContinueStatement",
+          "label": "a",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 6,
+              "offset": 107
+            },
+            "end": {
+              "line": 3,
+              "column": 17,
+              "offset": 118
+            }
+          }
+        },
+        "test": {
+          "type": "LiteralBooleanExpression",
+          "value": true,
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25,
+              "offset": 126
+            },
+            "end": {
+              "line": 3,
+              "column": 29,
+              "offset": 130
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 3,
+            "offset": 104
+          },
+          "end": {
+            "line": 3,
+            "column": 31,
+            "offset": 132
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 3,
+          "column": 0,
+          "offset": 101
+        },
+        "end": {
+          "line": 3,
+          "column": 31,
+          "offset": 132
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 4,
+      "column": 0,
+      "offset": 133
+    }
+  }
+}

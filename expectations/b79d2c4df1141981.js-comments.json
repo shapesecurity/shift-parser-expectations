@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " Because anArg is already declared, this goes away!",
+    "start": {
+      "line": 4,
+      "column": 12,
+      "offset": 50
+    },
+    "end": {
+      "line": 5,
+      "column": 0,
+      "offset": 104
+    }
+  }
+]

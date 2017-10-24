@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " https://github.com/Constellation/esmangle/issues/65",
+    "start": {
+      "line": 2,
+      "column": 2,
+      "offset": 16
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 71
+    }
+  }
+]

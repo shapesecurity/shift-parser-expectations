@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " 'i' should remain (global variable)",
+    "start": {
+      "line": 2,
+      "column": 14,
+      "offset": 28
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 67
+    }
+  }
+]

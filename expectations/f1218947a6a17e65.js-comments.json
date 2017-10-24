@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " hoist this, but it is very difficult.",
+    "start": {
+      "line": 2,
+      "column": 16,
+      "offset": 31
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 72
+    }
+  }
+]

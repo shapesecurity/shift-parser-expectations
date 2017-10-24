@@ -1,0 +1,227 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "ArrowExpression",
+        "params": {
+          "type": "FormalParameters",
+          "items": [
+            {
+              "type": "BindingIdentifier",
+              "name": "a",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 1
+                },
+                "end": {
+                  "line": 1,
+                  "column": 2,
+                  "offset": 2
+                }
+              }
+            }
+          ],
+          "rest": null,
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 0,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 3,
+              "offset": 3
+            }
+          }
+        },
+        "body": {
+          "type": "ArrowExpression",
+          "params": {
+            "type": "FormalParameters",
+            "items": [
+              {
+                "type": "BindingIdentifier",
+                "name": "b",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 9,
+                    "offset": 9
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 10,
+                    "offset": 10
+                  }
+                }
+              },
+              {
+                "type": "BindingIdentifier",
+                "name": "c",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 12,
+                    "offset": 12
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 13,
+                    "offset": 13
+                  }
+                }
+              }
+            ],
+            "rest": null,
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 8,
+                "offset": 8
+              },
+              "end": {
+                "line": 1,
+                "column": 14,
+                "offset": 14
+              }
+            }
+          },
+          "body": {
+            "type": "BinaryExpression",
+            "left": {
+              "type": "BinaryExpression",
+              "left": {
+                "type": "IdentifierExpression",
+                "name": "a",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 19,
+                    "offset": 19
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 20,
+                    "offset": 20
+                  }
+                }
+              },
+              "operator": ",",
+              "right": {
+                "type": "IdentifierExpression",
+                "name": "b",
+                "loc": {
+                  "start": {
+                    "line": 1,
+                    "column": 22,
+                    "offset": 22
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 23,
+                    "offset": 23
+                  }
+                }
+              },
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 19,
+                  "offset": 19
+                },
+                "end": {
+                  "line": 1,
+                  "column": 23,
+                  "offset": 23
+                }
+              }
+            },
+            "operator": ",",
+            "right": {
+              "type": "IdentifierExpression",
+              "name": "c",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 25,
+                  "offset": 25
+                },
+                "end": {
+                  "line": 1,
+                  "column": 26,
+                  "offset": 26
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 19,
+                "offset": 19
+              },
+              "end": {
+                "line": 1,
+                "column": 26,
+                "offset": 26
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 8,
+              "offset": 8
+            },
+            "end": {
+              "line": 1,
+              "column": 27,
+              "offset": 27
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 28,
+            "offset": 28
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 28,
+          "offset": 28
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 28,
+      "offset": 28
+    }
+  }
+}

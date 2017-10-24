@@ -1,0 +1,112 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "LabeledStatement",
+      "label": "a",
+      "body": {
+        "type": "DoWhileStatement",
+        "body": {
+          "type": "DoWhileStatement",
+          "body": {
+            "type": "ContinueStatement",
+            "label": "a",
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 9,
+                "offset": 53
+              },
+              "end": {
+                "line": 2,
+                "column": 20,
+                "offset": 64
+              }
+            }
+          },
+          "test": {
+            "type": "LiteralBooleanExpression",
+            "value": true,
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 27,
+                "offset": 71
+              },
+              "end": {
+                "line": 2,
+                "column": 31,
+                "offset": 75
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 50
+            },
+            "end": {
+              "line": 2,
+              "column": 33,
+              "offset": 77
+            }
+          }
+        },
+        "test": {
+          "type": "LiteralBooleanExpression",
+          "value": true,
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 40,
+              "offset": 84
+            },
+            "end": {
+              "line": 2,
+              "column": 44,
+              "offset": 88
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 3,
+            "offset": 47
+          },
+          "end": {
+            "line": 2,
+            "column": 46,
+            "offset": 90
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 44
+        },
+        "end": {
+          "line": 2,
+          "column": 46,
+          "offset": 90
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 91
+    }
+  }
+}

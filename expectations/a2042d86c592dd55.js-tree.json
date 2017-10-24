@@ -1,0 +1,81 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "BinaryExpression",
+        "left": {
+          "type": "LiteralStringExpression",
+          "value": "a",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 0,
+              "offset": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 3,
+              "offset": 17
+            }
+          }
+        },
+        "operator": "-",
+        "right": {
+          "type": "LiteralNumericExpression",
+          "value": 1,
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 7,
+              "offset": 21
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 0,
+            "offset": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 7,
+            "offset": 21
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 14
+        },
+        "end": {
+          "line": 2,
+          "column": 7,
+          "offset": 21
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 22
+    }
+  }
+}

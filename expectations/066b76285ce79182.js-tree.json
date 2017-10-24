@@ -1,0 +1,196 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ClassDeclaration",
+      "name": {
+        "type": "BindingIdentifier",
+        "name": "a",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 6,
+            "offset": 6
+          },
+          "end": {
+            "line": 1,
+            "column": 7,
+            "offset": 7
+          }
+        }
+      },
+      "super": null,
+      "elements": [
+        {
+          "type": "ClassElement",
+          "isStatic": false,
+          "method": {
+            "type": "Setter",
+            "name": {
+              "type": "StaticPropertyName",
+              "value": "b",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 14,
+                  "offset": 14
+                },
+                "end": {
+                  "line": 1,
+                  "column": 15,
+                  "offset": 15
+                }
+              }
+            },
+            "param": {
+              "type": "BindingIdentifier",
+              "name": "c",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 16,
+                  "offset": 16
+                },
+                "end": {
+                  "line": 1,
+                  "column": 17,
+                  "offset": 17
+                }
+              }
+            },
+            "body": {
+              "type": "FunctionBody",
+              "directives": [],
+              "statements": [],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 19,
+                  "offset": 19
+                },
+                "end": {
+                  "line": 1,
+                  "column": 21,
+                  "offset": 21
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 10,
+                "offset": 10
+              },
+              "end": {
+                "line": 1,
+                "column": 21,
+                "offset": 21
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 21,
+              "offset": 21
+            }
+          }
+        },
+        {
+          "type": "ClassElement",
+          "isStatic": false,
+          "method": {
+            "type": "Getter",
+            "name": {
+              "type": "StaticPropertyName",
+              "value": "b",
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 26,
+                  "offset": 26
+                },
+                "end": {
+                  "line": 1,
+                  "column": 27,
+                  "offset": 27
+                }
+              }
+            },
+            "body": {
+              "type": "FunctionBody",
+              "directives": [],
+              "statements": [],
+              "loc": {
+                "start": {
+                  "line": 1,
+                  "column": 30,
+                  "offset": 30
+                },
+                "end": {
+                  "line": 1,
+                  "column": 32,
+                  "offset": 32
+                }
+              }
+            },
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 22,
+                "offset": 22
+              },
+              "end": {
+                "line": 1,
+                "column": 32,
+                "offset": 32
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 22,
+              "offset": 22
+            },
+            "end": {
+              "line": 1,
+              "column": 32,
+              "offset": 32
+            }
+          }
+        }
+      ],
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 34,
+          "offset": 34
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 1,
+      "column": 34,
+      "offset": 34
+    }
+  }
+}

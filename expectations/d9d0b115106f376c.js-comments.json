@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " drop this default clause",
+    "start": {
+      "line": 6,
+      "column": 12,
+      "offset": 97
+    },
+    "end": {
+      "line": 7,
+      "column": 0,
+      "offset": 125
+    }
+  },
+  {
+    "type": "SingleLine",
+    "text": " https://github.com/mishoo/UglifyJS2/issues/141",
+    "start": {
+      "line": 7,
+      "column": 12,
+      "offset": 137
+    },
+    "end": {
+      "line": 8,
+      "column": 0,
+      "offset": 187
+    }
+  }
+]

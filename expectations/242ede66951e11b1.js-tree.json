@@ -1,0 +1,243 @@
+{
+  "type": "Script",
+  "directives": [],
+  "statements": [
+    {
+      "type": "ExpressionStatement",
+      "expression": {
+        "type": "CallExpression",
+        "callee": {
+          "type": "FunctionExpression",
+          "isGenerator": false,
+          "name": null,
+          "params": {
+            "type": "FormalParameters",
+            "items": [],
+            "rest": null,
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 10,
+                "offset": 27
+              },
+              "end": {
+                "line": 2,
+                "column": 12,
+                "offset": 29
+              }
+            }
+          },
+          "body": {
+            "type": "FunctionBody",
+            "directives": [],
+            "statements": [
+              {
+                "type": "ExpressionStatement",
+                "expression": {
+                  "type": "CallExpression",
+                  "callee": {
+                    "type": "IdentifierExpression",
+                    "name": "a",
+                    "loc": {
+                      "start": {
+                        "line": 3,
+                        "column": 2,
+                        "offset": 34
+                      },
+                      "end": {
+                        "line": 3,
+                        "column": 3,
+                        "offset": 35
+                      }
+                    }
+                  },
+                  "arguments": [
+                    {
+                      "type": "LiteralStringExpression",
+                      "value": "b",
+                      "loc": {
+                        "start": {
+                          "line": 3,
+                          "column": 4,
+                          "offset": 36
+                        },
+                        "end": {
+                          "line": 3,
+                          "column": 7,
+                          "offset": 39
+                        }
+                      }
+                    }
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 3,
+                      "column": 2,
+                      "offset": 34
+                    },
+                    "end": {
+                      "line": 3,
+                      "column": 8,
+                      "offset": 40
+                    }
+                  }
+                },
+                "loc": {
+                  "start": {
+                    "line": 3,
+                    "column": 2,
+                    "offset": 34
+                  },
+                  "end": {
+                    "line": 3,
+                    "column": 9,
+                    "offset": 41
+                  }
+                }
+              }
+            ],
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 13,
+                "offset": 30
+              },
+              "end": {
+                "line": 4,
+                "column": 1,
+                "offset": 43
+              }
+            }
+          },
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 18
+            },
+            "end": {
+              "line": 4,
+              "column": 1,
+              "offset": 43
+            }
+          }
+        },
+        "arguments": [],
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 1,
+            "offset": 18
+          },
+          "end": {
+            "line": 4,
+            "column": 3,
+            "offset": 45
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0,
+          "offset": 17
+        },
+        "end": {
+          "line": 4,
+          "column": 5,
+          "offset": 47
+        }
+      }
+    },
+    {
+      "type": "TryCatchStatement",
+      "body": {
+        "type": "Block",
+        "statements": [],
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4,
+            "offset": 52
+          },
+          "end": {
+            "line": 6,
+            "column": 1,
+            "offset": 55
+          }
+        }
+      },
+      "catchClause": {
+        "type": "CatchClause",
+        "binding": {
+          "type": "BindingIdentifier",
+          "name": "c",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 9,
+              "offset": 63
+            },
+            "end": {
+              "line": 6,
+              "column": 10,
+              "offset": 64
+            }
+          }
+        },
+        "body": {
+          "type": "Block",
+          "statements": [],
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 66
+            },
+            "end": {
+              "line": 7,
+              "column": 1,
+              "offset": 69
+            }
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 2,
+            "offset": 56
+          },
+          "end": {
+            "line": 7,
+            "column": 1,
+            "offset": 69
+          }
+        }
+      },
+      "loc": {
+        "start": {
+          "line": 5,
+          "column": 0,
+          "offset": 48
+        },
+        "end": {
+          "line": 7,
+          "column": 1,
+          "offset": 69
+        }
+      }
+    }
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0,
+      "offset": 0
+    },
+    "end": {
+      "line": 8,
+      "column": 0,
+      "offset": 70
+    }
+  }
+}

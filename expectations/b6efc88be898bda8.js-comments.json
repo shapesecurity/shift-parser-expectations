@@ -1,0 +1,16 @@
+[
+  {
+    "type": "SingleLine",
+    "text": " should not hoist variable.",
+    "start": {
+      "line": 2,
+      "column": 16,
+      "offset": 32
+    },
+    "end": {
+      "line": 3,
+      "column": 0,
+      "offset": 62
+    }
+  }
+]

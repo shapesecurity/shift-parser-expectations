@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MultiLine",
+    "text": " Multiline\nComment ",
+    "start": {
+      "line": 1,
+      "column": 21,
+      "offset": 21
+    },
+    "end": {
+      "line": 2,
+      "column": 10,
+      "offset": 44
+    }
+  }
+]
