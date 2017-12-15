@@ -109,8 +109,8 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 17,
-              "offset": 17
+              "column": 10,
+              "offset": 10
             },
             "end": {
               "line": 1,
