@@ -37,6 +37,7 @@
       },
       "alternate": {
         "type": "FunctionDeclaration",
+        "isAsync": false,
         "isGenerator": false,
         "name": {
           "type": "BindingIdentifier",

@@ -27,6 +27,7 @@
           "isStatic": false,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "StaticPropertyName",
@@ -69,6 +70,7 @@
                   "type": "ExpressionStatement",
                   "expression": {
                     "type": "ArrowExpression",
+                    "isAsync": false,
                     "params": {
                       "type": "FormalParameters",
                       "items": [],

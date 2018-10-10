@@ -27,6 +27,7 @@
           "isStatic": false,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "StaticPropertyName",
@@ -109,6 +110,7 @@
           "isStatic": false,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "StaticPropertyName",
@@ -240,6 +242,7 @@
           "isStatic": false,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "StaticPropertyName",
@@ -337,6 +340,7 @@
           "isStatic": false,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "StaticPropertyName",

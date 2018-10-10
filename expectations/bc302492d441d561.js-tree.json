@@ -10,6 +10,7 @@
           "type": "StaticMemberExpression",
           "object": {
             "type": "FunctionExpression",
+            "isAsync": false,
             "isGenerator": false,
             "name": null,
             "params": {

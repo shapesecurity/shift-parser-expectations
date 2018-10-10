@@ -4,6 +4,7 @@
   "statements": [
     {
       "type": "FunctionDeclaration",
+      "isAsync": false,
       "isGenerator": false,
       "name": {
         "type": "BindingIdentifier",
@@ -67,6 +68,7 @@
                 "properties": [
                   {
                     "type": "Method",
+                    "isAsync": false,
                     "isGenerator": false,
                     "name": {
                       "type": "StaticPropertyName",

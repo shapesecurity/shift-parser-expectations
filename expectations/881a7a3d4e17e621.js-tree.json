@@ -4,6 +4,7 @@
   "statements": [
     {
       "type": "FunctionDeclaration",
+      "isAsync": false,
       "isGenerator": false,
       "name": {
         "type": "BindingIdentifier",
@@ -101,6 +102,7 @@
                   },
                   "init": {
                     "type": "FunctionExpression",
+                    "isAsync": false,
                     "isGenerator": false,
                     "name": null,
                     "params": {
@@ -264,6 +266,7 @@
                   },
                   "init": {
                     "type": "FunctionExpression",
+                    "isAsync": false,
                     "isGenerator": false,
                     "name": null,
                     "params": {

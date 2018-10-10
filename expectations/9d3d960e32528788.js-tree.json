@@ -8,6 +8,7 @@
         "type": "BinaryExpression",
         "left": {
           "type": "FunctionExpression",
+          "isAsync": false,
           "isGenerator": false,
           "name": null,
           "params": {

@@ -27,6 +27,7 @@
           "isStatic": true,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "ComputedPropertyName",
@@ -124,6 +125,7 @@
           "isStatic": true,
           "method": {
             "type": "Method",
+            "isAsync": false,
             "isGenerator": false,
             "name": {
               "type": "ComputedPropertyName",

@@ -4,6 +4,7 @@
   "statements": [
     {
       "type": "FunctionDeclaration",
+      "isAsync": false,
       "isGenerator": true,
       "name": {
         "type": "BindingIdentifier",
@@ -70,6 +71,7 @@
     },
     {
       "type": "FunctionDeclaration",
+      "isAsync": false,
       "isGenerator": false,
       "name": {
         "type": "BindingIdentifier",

@@ -25,6 +25,7 @@
         "arguments": [
           {
             "type": "ArrowExpression",
+            "isAsync": false,
             "params": {
               "type": "FormalParameters",
               "items": [],

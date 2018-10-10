@@ -6,6 +6,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": true,
         "name": null,
         "params": {

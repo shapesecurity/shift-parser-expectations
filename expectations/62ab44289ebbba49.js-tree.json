@@ -8,6 +8,7 @@
         "type": "CallExpression",
         "callee": {
           "type": "FunctionExpression",
+          "isAsync": false,
           "isGenerator": false,
           "name": null,
           "params": {
@@ -64,6 +65,7 @@
               },
               {
                 "type": "FunctionDeclaration",
+                "isAsync": false,
                 "isGenerator": false,
                 "name": {
                   "type": "BindingIdentifier",
