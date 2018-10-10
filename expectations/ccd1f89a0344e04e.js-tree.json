@@ -6,6 +6,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [

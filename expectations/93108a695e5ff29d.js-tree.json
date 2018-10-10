@@ -16,6 +16,7 @@
                 "type": "CallExpression",
                 "callee": {
                   "type": "FunctionExpression",
+                  "isAsync": false,
                   "isGenerator": false,
                   "name": null,
                   "params": {
@@ -305,6 +306,7 @@
               "arguments": [
                 {
                   "type": "FunctionExpression",
+                  "isAsync": false,
                   "isGenerator": false,
                   "name": null,
                   "params": {
@@ -608,6 +610,7 @@
           "arguments": [
             {
               "type": "FunctionExpression",
+              "isAsync": false,
               "isGenerator": false,
               "name": null,
               "params": {

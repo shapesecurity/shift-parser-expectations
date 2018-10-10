@@ -24,6 +24,7 @@
         },
         "expression": {
           "type": "ArrowExpression",
+          "isAsync": false,
           "params": {
             "type": "FormalParameters",
             "items": [
@@ -135,6 +136,7 @@
         },
         "expression": {
           "type": "ArrowExpression",
+          "isAsync": false,
           "params": {
             "type": "FormalParameters",
             "items": [],

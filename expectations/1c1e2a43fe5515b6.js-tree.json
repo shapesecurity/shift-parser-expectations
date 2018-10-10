@@ -22,6 +22,7 @@
       },
       "consequent": {
         "type": "FunctionDeclaration",
+        "isAsync": false,
         "isGenerator": false,
         "name": {
           "type": "BindingIdentifier",
@@ -88,6 +89,7 @@
       },
       "alternate": {
         "type": "FunctionDeclaration",
+        "isAsync": false,
         "isGenerator": false,
         "name": {
           "type": "BindingIdentifier",

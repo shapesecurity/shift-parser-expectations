@@ -6,6 +6,7 @@
       "type": "Export",
       "declaration": {
         "type": "FunctionDeclaration",
+        "isAsync": false,
         "isGenerator": false,
         "name": {
           "type": "BindingIdentifier",

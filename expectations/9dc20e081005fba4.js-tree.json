@@ -27,6 +27,7 @@
           "properties": [
             {
               "type": "Method",
+              "isAsync": false,
               "isGenerator": false,
               "name": {
                 "type": "StaticPropertyName",
@@ -221,6 +222,7 @@
           "properties": [
             {
               "type": "Method",
+              "isAsync": false,
               "isGenerator": false,
               "name": {
                 "type": "StaticPropertyName",
@@ -387,6 +389,7 @@
             },
             {
               "type": "Method",
+              "isAsync": false,
               "isGenerator": false,
               "name": {
                 "type": "StaticPropertyName",

@@ -6,6 +6,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -89,6 +90,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -190,6 +192,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -307,6 +310,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -426,6 +430,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -561,6 +566,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -696,6 +702,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -831,6 +838,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -947,6 +955,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -1095,6 +1104,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -1229,6 +1239,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -1395,6 +1406,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -1545,6 +1557,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "FunctionExpression",
+        "isAsync": false,
         "isGenerator": false,
         "name": null,
         "params": {
@@ -1695,6 +1708,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -1794,6 +1808,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -1909,6 +1924,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -2023,6 +2039,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -2265,6 +2282,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -2363,6 +2381,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -2477,6 +2496,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
@@ -2590,6 +2610,7 @@
       "type": "ExpressionStatement",
       "expression": {
         "type": "ArrowExpression",
+        "isAsync": false,
         "params": {
           "type": "FormalParameters",
           "items": [
