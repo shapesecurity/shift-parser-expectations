@@ -108,6 +108,7 @@
                 }
               }
             ],
+            "rest": null,
             "loc": {
               "start": {
                 "line": 1,
@@ -406,6 +407,7 @@
                   }
                 }
               ],
+              "rest": null,
               "loc": {
                 "start": {
                   "line": 3,

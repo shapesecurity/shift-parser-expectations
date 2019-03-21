@@ -61,6 +61,7 @@
                   }
                 }
               ],
+              "rest": null,
               "loc": {
                 "start": {
                   "line": 1,
@@ -77,6 +78,7 @@
             {
               "type": "ObjectBinding",
               "properties": [],
+              "rest": null,
               "loc": {
                 "start": {
                   "line": 1,

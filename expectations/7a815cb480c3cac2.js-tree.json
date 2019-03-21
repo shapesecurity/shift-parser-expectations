@@ -9,6 +9,7 @@
         "binding": {
           "type": "ObjectAssignmentTarget",
           "properties": [],
+          "rest": null,
           "loc": {
             "start": {
               "line": 1,

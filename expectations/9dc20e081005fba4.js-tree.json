@@ -282,6 +282,7 @@
                             }
                           }
                         ],
+                        "rest": null,
                         "loc": {
                           "start": {
                             "line": 7,

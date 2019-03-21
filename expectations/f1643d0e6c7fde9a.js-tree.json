@@ -32,8 +32,9 @@
               "global": true,
               "ignoreCase": false,
               "multiLine": false,
-              "sticky": false,
+              "dotAll": false,
               "unicode": false,
+              "sticky": false,
               "loc": {
                 "start": {
                   "line": 1,
