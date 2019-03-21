@@ -25,6 +25,7 @@
         "binding": {
           "type": "ObjectBinding",
           "properties": [],
+          "rest": null,
           "loc": {
             "start": {
               "line": 1,

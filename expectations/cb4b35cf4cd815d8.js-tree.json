@@ -72,6 +72,7 @@
               }
             }
           ],
+          "rest": null,
           "loc": {
             "start": {
               "line": 1,

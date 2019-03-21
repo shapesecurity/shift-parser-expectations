@@ -291,6 +291,7 @@
                   }
                 }
               ],
+              "rest": null,
               "loc": {
                 "start": {
                   "line": 3,

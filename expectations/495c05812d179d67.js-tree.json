@@ -10,8 +10,9 @@
         "global": true,
         "ignoreCase": true,
         "multiLine": true,
-        "sticky": true,
+        "dotAll": false,
         "unicode": true,
+        "sticky": true,
         "loc": {
           "start": {
             "line": 1,

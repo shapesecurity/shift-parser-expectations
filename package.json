@@ -19,7 +19,7 @@
     "expectations/"
   ],
   "devDependencies": {
-    "shift-spec": "2016.0.0",
-    "test262-parser-tests": "0.0.3"
+    "shift-spec": "2018.0.2",
+    "test262-parser-tests": "0.0.5"
   }
 }

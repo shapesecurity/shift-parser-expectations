@@ -235,6 +235,7 @@
                     }
                   }
                 ],
+                "rest": null,
                 "loc": {
                   "start": {
                     "line": 5,
@@ -418,6 +419,7 @@
               }
             }
           ],
+          "rest": null,
           "loc": {
             "start": {
               "line": 1,
