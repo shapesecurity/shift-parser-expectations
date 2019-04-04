@@ -11,7 +11,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "node generate-expectations.js",
-    "build": "echo \"This is temporary change to run CI\"",
+    "build": "exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "Apache-2.0",
