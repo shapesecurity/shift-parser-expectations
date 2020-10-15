@@ -1,6 +1,6 @@
 {
   "name": "shift-parser-expectations",
-  "version": "2018.0.2",
+  "version": "2019.0.0",
   "description": "Shift ASTs for test262-parser-tests",
   "author": "Shape Security",
   "homepage": "https://github.com/shapesecurity/shift-parser-expectations",
@@ -20,7 +20,7 @@
     "expectations/"
   ],
   "devDependencies": {
-    "shift-spec": "2018.0.2",
+    "shift-spec": "2019.0.0",
     "test262-parser-tests": "0.0.5"
   }
 }

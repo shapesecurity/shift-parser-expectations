@@ -10,7 +10,7 @@ const readdir = promisify(fs.readdir);
 const mkdir = promisify(fs.mkdir);
 
 const { parseScriptWithLocation, parseModuleWithLocation } = require('shift-parser');
-const spec = require('shift-spec').default;
+const spec = require('shift-spec');
 
 const stringify = require('./ordered-stringify.js');
 const decorateWithLocations = require('./decorate-with-locations.js');
